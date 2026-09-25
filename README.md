@@ -4,6 +4,8 @@
 
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou construindo minha base em programação, lógica e desenvolvimento através de projetos acadêmicos e pessoais. 🚀
 
+🔎 **Em busca do meu primeiro estágio na área de tecnologia.**
+
 ---
 
 ### 🚀 Sobre mim
@@ -12,7 +14,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou c
 * 🐍 **Foco:** Python, lógica de programação e algoritmos
 * 🤖 **Interesses:** Inteligência Artificial, Machine Learning e Análise de Dados
 * 📚 **Estudos:** Python, Git, SQL, Algoritmos e Estruturas de Dados
-* 💼 **Objetivo:** Desenvolver experiência prática e conquistar minha primeira oportunidade na área
+* 💼 **Objetivo:** Conquistar meu primeiro estágio e desenvolver experiência prática
 * 📫 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/kayo-henderson-864697382/)
 
 ---
@@ -34,27 +36,29 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou c
 **🔥 Sequência de contribuições**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayoxshenderson-droid&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kayoxshenderson-droid&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 **🏆 Conquistas no GitHub**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kayoxshenderson-droid&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do Kayo" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kayoxshenderson-droid&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 **📈 Atividade no GitHub**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayoxshenderson-droid&theme=react-dark&hide_border=true&area=true" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayoxshenderson-droid&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 **🐍 Contribuições**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayoxshenderson-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxshenderson-droid&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kayoxshenderson-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxshenderson-droid&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </p>
+
 
 ---
 
@@ -75,9 +79,10 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou c
 
 ---
 
-### 🚀 Atualmente
+### 🎯 Atualmente
 
-🎓 Cursando Ciência da Computação na **FIAP**
+🎓 Cursando **Ciência da Computação na FIAP**
 🐍 Aprofundando meus conhecimentos em **Python**
 📚 Estudando **Algoritmos, Estruturas de Dados e SQL**
 🤖 Explorando **IA, Machine Learning e Análise de Dados**
+💼 **Em busca do meu primeiro estágio em tecnologia**
