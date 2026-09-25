@@ -21,11 +21,13 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou c
 
 ### 💻 Tecnologias
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 🐍 **Python:** lógica, condicionais, loops, funções, listas, estruturas de dados, manipulação de dados e algoritmos.
 
@@ -65,6 +67,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou c
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxshenderson-droid&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
+
 ---
 
 ### 📂 Projetos em destaque
@@ -86,8 +89,8 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou c
 
 ### 🎯 Atualmente
 
-🎓 Cursando **Ciência da Computação na FIAP**
-🐍 Aprofundando meus conhecimentos em **Python**
-📚 Estudando **Algoritmos, Estruturas de Dados e SQL**
-🤖 Explorando **IA, Machine Learning e Análise de Dados**
+🎓 Cursando **Ciência da Computação na FIAP**  
+🐍 Aprofundando meus conhecimentos em **Python**  
+📚 Estudando **Algoritmos, Estruturas de Dados e SQL**  
+🤖 Explorando **IA, Machine Learning e Análise de Dados**  
 💼 **Em busca do meu primeiro estágio em tecnologia**
