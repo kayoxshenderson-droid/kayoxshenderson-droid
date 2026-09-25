@@ -24,7 +24,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou c
 <div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -47,7 +46,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou c
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kayoxshenderson-droid&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kayoxshenderson-droid&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&v=1)
 
 </div>
 
@@ -55,7 +54,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou c
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kayoxshenderson-droid&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kayoxshenderson-droid&theme=react-dark&hide_border=true&area=true&v=1)
 
 </div>
 
@@ -63,11 +62,10 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou c
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayoxshenderson-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxshenderson-droid&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayoxshenderson-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxshenderson-droid&layout=compact&theme=radical&hide_border=true&langs_count=8&v=1)
 
 </div>
-
 ---
 
 ### 📂 Projetos em destaque
