@@ -2,207 +2,82 @@
 
 🎓 **Estudante de Ciência da Computação na FIAP** | 🐍 **Focado em Python** | 📍 **São Paulo, Brasil**
 
-Apaixonado por tecnologia e desenvolvimento de software. Meu GitHub é o registro da minha evolução na programação, onde transformo teoria em prática através de projetos acadêmicos, desafios lógicos e aplicações próprias.
-
-Meu objetivo é simples: **aprender, construir, errar, melhorar e continuar evoluindo.** 🚀
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou construindo minha base em programação, lógica e desenvolvimento através de projetos acadêmicos e pessoais. 🚀
 
 ---
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
-* 🎓 **Formação:** Graduando em Ciência da Computação pela FIAP.
-* 🐍 **Foco atual:** Desenvolvimento da base em lógica e algoritmos utilizando Python.
-* 🤖 **Interesses:** Inteligência Artificial, Machine Learning e Análise de Dados.
-* 📚 **Estudos:** Algoritmos, Estruturas de Dados, Python, Git e SQL.
-* 👯 **Colaboração:** Aberto a projetos de tecnologia e novas oportunidades.
-* 💼 **Objetivo:** Construir experiência prática e conquistar minha primeira oportunidade na área.
-* 📫 **Contato:** [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/kayo-henderson-864697382/)
-
----
-
-## 💻 Tecnologias e conhecimentos
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-
-### 🐍 Python
-
-Minha principal linguagem de estudo atualmente.
-
-Tenho trabalhado principalmente com:
-
-* Lógica de programação
-* Variáveis e tipos de dados
-* Condicionais
-* Estruturas de repetição
-* Funções
-* Listas e estruturas de dados
-* Manipulação de dados
-* Resolução de problemas
-* Algoritmos
+* 🎓 **Formação:** Ciência da Computação — FIAP
+* 🐍 **Foco:** Python, lógica de programação e algoritmos
+* 🤖 **Interesses:** Inteligência Artificial, Machine Learning e Análise de Dados
+* 📚 **Estudos:** Python, Git, SQL, Algoritmos e Estruturas de Dados
+* 💼 **Objetivo:** Desenvolver experiência prática e conquistar minha primeira oportunidade na área
+* 📫 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/kayo-henderson-864697382/)
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 💻 Tecnologias
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayoxshenderson-droid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxshenderson-droid&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Sequência de contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kayoxshenderson-droid&theme=tokyonight&hide_border=false" />
-
-</div>
+🐍 **Python:** lógica, condicionais, loops, funções, listas, estruturas de dados, manipulação de dados e algoritmos.
 
 ---
 
-## 🏆 Conquistas no GitHub
+### 📊 Estatísticas do GitHub
 
-<div align="center">
+**🔥 Sequência de contribuições**
 
-<img src="https://github-profile-trophy.vercel.app/?username=kayoxshenderson-droid&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&row=1" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayoxshenderson-droid&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-</div>
+**🏆 Conquistas no GitHub**
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kayoxshenderson-droid&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do Kayo" />
+</p>
 
-## 📈 Atividade no GitHub
+**📈 Atividade no GitHub**
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayoxshenderson-droid&theme=react-dark&hide_border=true&area=true" alt="Gráfico de Atividade" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kayoxshenderson-droid&theme=tokyo-night&hide_border=false" />
+**🐍 Contribuições**
 
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 📂 Projetos em destaque
-
-### 🎓 Projetos Acadêmicos — FIAP
-
-🌎 **[global_solution_andre1](https://github.com/kayoxshenderson-droid/global_solution_andre1)**
-Projeto acadêmico desenvolvido para colocar em prática conhecimentos de programação durante uma Global Solution.
-
-🌎 **[global_Solution_Jorge](https://github.com/kayoxshenderson-droid/global_Solution_Jorge)**
-Projeto desenvolvido em equipe durante uma atividade acadêmica da graduação.
-
-🧪 **[Sprint2-Prototipo](https://github.com/kayoxshenderson-droid/Sprint2-Prototipo)**
-Aplicação prática dos conhecimentos trabalhados durante uma Sprint da graduação.
-
-### 🧩 Exercícios e lógica
-
-🧮 **[Calculadora](https://github.com/kayoxshenderson-droid/Calculadora)**
-Projeto desenvolvido para praticar operações matemáticas, lógica e interação com o usuário.
-
-🗺️ **[Caça ao Tesouro](https://github.com/kayoxshenderson-droid/Ca-a_Tesouro)**
-Exercício de lógica de programação e estruturas condicionais.
-
-✊ **[Pedra, Papel e Tesoura](https://github.com/kayoxshenderson-droid/Jogo_papel_tesoura)**
-Implementação do clássico jogo utilizando conceitos fundamentais de programação.
-
-🔐 **[Senha Python](https://github.com/kayoxshenderson-droid/Senha_python)**
-Projeto voltado à manipulação e validação de dados utilizando Python.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kayoxshenderson-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxshenderson-droid&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="160"/>
+</p>
 
 ---
 
-## 📚 Minha evolução
+### 📂 Projetos em destaque
 
-```text
-2026
-│
-├── 🎓 Início da graduação em Ciência da Computação
-│
-├── 🐍 Python
-│   ├── Lógica de programação
-│   ├── Condicionais
-│   ├── Loops
-│   └── Funções
-│
-├── 💻 Projetos acadêmicos
-│   ├── Sprints
-│   └── Global Solutions
-│
-├── 🗄️ Fundamentos de dados
-│   └── SQL
-│
-└── 🚀 Próximos passos
-    ├── Estruturas de Dados
-    ├── Análise de Dados
-    ├── Machine Learning
-    └── Inteligência Artificial
-```
+**🎓 Projetos Acadêmicos — FIAP**
+
+* 🌎 **[Global Solution Andre](https://github.com/kayoxshenderson-droid/global_solution_andre1)** — Projeto acadêmico desenvolvido durante uma Global Solution.
+* 🌎 **[Global Solution Jorge](https://github.com/kayoxshenderson-droid/global_Solution_Jorge)** — Projeto desenvolvido em equipe durante a graduação.
+* 🧪 **[Sprint 2 — Protótipo](https://github.com/kayoxshenderson-droid/Sprint2-Prototipo)** — Projeto desenvolvido durante uma Sprint da FIAP.
+
+**🧩 Exercícios e Projetos**
+
+* 🧮 **[Calculadora](https://github.com/kayoxshenderson-droid/Calculadora)** — Prática de lógica e operações matemáticas.
+* 🗺️ **[Caça ao Tesouro](https://github.com/kayoxshenderson-droid/Ca-a_Tesouro)** — Exercício de lógica e estruturas condicionais.
+* ✊ **[Pedra, Papel e Tesoura](https://github.com/kayoxshenderson-droid/Jogo_papel_tesoura)** — Jogo desenvolvido em Python.
+* 🔐 **[Senha Python](https://github.com/kayoxshenderson-droid/Senha_python)** — Prática de manipulação e validação de dados.
 
 ---
 
-## 🎯 Atualmente
+### 🚀 Atualmente
 
-```text
-🐍 Python              ███████████░░  Em evolução
-🧠 Lógica              ███████████░░  Em evolução
-📊 Análise de Dados    ██████░░░░░░░  Estudando
-🗄️ SQL                 ██████░░░░░░░  Estudando
-🤖 Machine Learning    ███░░░░░░░░░░  Próximo passo
-🧠 Inteligência Art.   ███░░░░░░░░░░  Próximo passo
-```
-
----
-
-## 📊 Perfil de desenvolvimento
-
-<div align="center">
-
-```text
-        ┌─────────────────────────────┐
-        │       KAYO HENDERSON        │
-        ├─────────────────────────────┤
-        │ 🎓 Ciência da Computação    │
-        │ 🐍 Python                   │
-        │ 🧠 Algoritmos               │
-        │ 📊 Dados                    │
-        │ 🤖 Inteligência Artificial  │
-        │ 🚀 Aprendizado contínuo     │
-        └─────────────────────────────┘
-```
-
-</div>
-
----
-
-## 📫 Onde me encontrar
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kayo-henderson-864697382/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kayoxshenderson-droid)
-
-</div>
-
----
-
-<div align="center">
-
-</div>
+🎓 Cursando Ciência da Computação na **FIAP**
+🐍 Aprofundando meus conhecimentos em **Python**
+📚 Estudando **Algoritmos, Estruturas de Dados e SQL**
+🤖 Explorando **IA, Machine Learning e Análise de Dados**
