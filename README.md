@@ -1,4 +1,4 @@
-# Olá, eu sou o Kayo Henderson! 👋
+# Olá, eu sou o Kayo Henderson!
 
 🎓 **Estudante de Ciência da Computação na FIAP** | 🐍 **Focado em Python** | 📍 **São Paulo, Brasil**
 
@@ -35,31 +35,36 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou c
 
 **🔥 Sequência de contribuições**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kayoxshenderson-droid&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kayoxshenderson-droid&theme=radical&hide_border=true)
+
+</div>
 
 **🏆 Conquistas no GitHub**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kayoxshenderson-droid&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kayoxshenderson-droid&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10)
+
+</div>
 
 **📈 Atividade no GitHub**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayoxshenderson-droid&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kayoxshenderson-droid&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 **🐍 Contribuições**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayoxshenderson-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxshenderson-droid&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayoxshenderson-droid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoxshenderson-droid&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-
+</div>
 ---
 
 ### 📂 Projetos em destaque
